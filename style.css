@@ -59,13 +59,13 @@ body{
 }
 .card-right{ 
     
-    
+
 }
 
-img{ 
+
+.image{ 
     border-bottom-right-radius: 10px;
     border-top-right-radius: 10px;
-    color: hsl(277, 64%, 61%);
     height:450px;
 
 }
