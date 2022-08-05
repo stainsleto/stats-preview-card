@@ -1,6 +1,7 @@
 body{ 
     background-color: hsl(233, 47%, 7%);
     padding-top: 10%;
+    height:100%;
 }
 
 .card{
@@ -10,6 +11,7 @@ body{
     display:flex;
     flex-direction: row;
     margin:auto;
+    flex-shrink: inherit;
     border-radius: 10px;
 }
 
@@ -59,9 +61,11 @@ body{
     
     
 }
+
 img{ 
     border-bottom-right-radius: 10px;
     border-top-right-radius: 10px;
+    color: hsl(277, 64%, 61%);
     height:450px;
 
 }
