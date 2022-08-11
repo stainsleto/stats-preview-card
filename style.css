@@ -11,7 +11,7 @@ body{
     display:flex;
     flex-direction: row;
     margin:auto;
-    flex-shrink: inherit;
+    
     border-radius: 10px;
 }
 
@@ -57,15 +57,9 @@ body{
     color:hsla(0, 0%, 100%, 0.75);
 
 }
-.card-right{ 
-    
-
-}
-
 
 .image{ 
     border-bottom-right-radius: 10px;
     border-top-right-radius: 10px;
     height:450px;
-
 }
