@@ -4,21 +4,18 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [Visit Site](#visit-site)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Overview
 
-### The challenge
+### Visit Site
 
-Users should be able to:
-
-- View the optimal layout depending on their device's screen size
+Check Out the Live Preview here - https://dainty-yeot-349387.netlify.app/
 
 
 ## My process
@@ -33,12 +30,12 @@ Users should be able to:
 
 ### What I learned
 
-XYZ
-
-### Useful resources
+Though this project I came to know about the flex box and the reponsive mobile designing for mobile view 
+with media query in CSS
 
 
 ## Author
 
 - Twitter - [@LetoStains](https://twitter.com/LetoStains)
+- Linkedin - [@Stains Leto](https://www.linkedin.com/in/stains-leto-6a79141a8/)
 
